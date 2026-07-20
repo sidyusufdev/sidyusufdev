@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
@@ -53,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sidyusufdev&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sidyusufdev&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
