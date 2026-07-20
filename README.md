@@ -1,4 +1,5 @@
 
+[README (2).md](https://github.com/user-attachments/files/30187913/README.2.md)
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
@@ -47,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidyusufdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidyusufdev&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sidyusufdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidyusufdev&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
