@@ -89,8 +89,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sidyusufdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidyusufdev&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sidyusufdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidyusufdev&layout=compact&theme=radical&cache_seconds=0"/>
 </p>
 
 <p align="center">
