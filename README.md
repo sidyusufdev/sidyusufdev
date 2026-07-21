@@ -89,6 +89,15 @@
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   1 hr 16 mins          ███████████░░░░░░░░░░░░░░   43.85 %
+TypeScript   40 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+JSON         19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Markdown     17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Other        17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
