@@ -22,15 +22,19 @@
 
 ### 🙋‍♂️ About Me
 
-```yaml
-name: "Yusuf Siddique"
-role: "Student | Full Stack Web Developer"
-focus: "Building useful, real-world web applications"
-currently_building: "Full Stack Web Applications using React and Node.js"
-currently_learning: ["React.js", "Node.js", "MongoDB", "Advanced JavaScript"]
-open_to: ["Open Source Projects", "Web Dev Collaboration", "Beginner-Friendly Ideas"]
-ask_me_about: ["JavaScript", "Python", "Java", "React", "MongoDB", "Git & GitHub"]
-```
+<div align="center">
+
+| | | |
+|:---:|:---|:---|
+| 🎓 | **Role** | Student \| Full Stack Web Developer |
+| 🚀 | **Currently Building** | Full Stack Web Applications using React and Node.js |
+| 🌱 | **Currently Learning** | React.js · Node.js · MongoDB · Advanced JavaScript |
+| 🤝 | **Looking to Collaborate On** | Open Source Projects · Web Dev Projects · Beginner-Friendly Ideas |
+| 💬 | **Ask Me About** | JavaScript · Python · Java · React · MongoDB · Git & GitHub |
+| 🎯 | **Mission** | Building useful, real-world web applications while learning something new every day |
+| ⚡ | **Fun Fact** | Creating bugs since day one 😂 |
+
+</div>
 
 ---
 
