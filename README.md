@@ -91,6 +91,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 14 July 2026 - To: 21 July 2026
+
+Total Time: 2 hrs 37 mins
+
 JavaScript   1 hr 16 mins          ███████████░░░░░░░░░░░░░░   43.85 %
 TypeScript   40 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
 JSON         19 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
