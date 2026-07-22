@@ -128,29 +128,26 @@ Other        17 mins               ██▒░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sidyusufdev/sidyusufdev/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/sidyusufdev/sidyusufdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
+
+> This animation activates automatically after the workflow below is added to your profile repo — it won't render until then.
 
 ---
 
 ### 🎯 Current Focus
 
-```yaml
-learning:
-  - React.js
-  - Node.js
-  - MongoDB
-  - Advanced JavaScript
-building:
-  - Full stack web applications
-exploring:
-  - Open source contribution workflows
-open_to:
-  - Open source projects
-  - Web dev collaboration
-  - Beginner-friendly project ideas
-```
+<div align="center">
+
+| | Focus Area | Details |
+|:---:|:---|:---|
+| 🌱 | **Learning** | React.js · Node.js · MongoDB · Advanced JavaScript |
+| 🚀 | **Building** | Full stack web applications |
+| 🔭 | **Exploring** | Open source contribution workflows |
+| 🤝 | **Open To** | Open source projects · Web dev collaboration · Beginner-friendly project ideas |
+
+</div>
 
 ---
 
