@@ -176,9 +176,6 @@ CSS               3 mins                ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Achievements Showcase
-<!-- The github-metrics.svg will be generated in your repo root once the metrics.yml GitHub action finishes! -->
-<img src="github-metrics.svg" alt="GitHub Metrics (Please wait for GitHub Action to generate this)" width="100%">
 
 </div>
 
