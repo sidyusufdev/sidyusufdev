@@ -111,7 +111,7 @@
   <path d="M 985 200 L 985 210 Q 985 235 960 235 L 950 235" fill="none" stroke="#00ffff" stroke-width="3" filter="url(#neon)"/>
 
   <!-- Name Text -->
-  <text x="500" y="115" text-anchor="middle" class="name-text">AINAAN RAZA</text>
+  <text x="500" y="115" text-anchor="middle" class="name-text">Md Yusuf Siddique</text>
 
   <!-- Subtitle Text -->
   <text x="500" y="170" text-anchor="middle" class="role-text">&lt; AI Engineer /&gt;</text>
