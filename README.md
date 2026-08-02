@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="assets/banner.svg" alt="Yusuf Siddique Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Md Yusuf Siddique Banner" width="100%" />
 
   ### <img src="assets/ai.svg" width="30" /> Building Full Stack Web Applications, One Bug at a Time <img src="assets/ai.svg" width="30" />
   
