@@ -1,0 +1,121 @@
+<svg width="100%" height="250" viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a001a" />
+      <stop offset="50%" stop-color="#140033" />
+      <stop offset="100%" stop-color="#0a001a" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="neon" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur1" />
+      <feGaussianBlur stdDeviation="15" result="blur2" />
+      <feGaussianBlur stdDeviation="25" result="blur3" />
+      <feMerge>
+        <feMergeNode in="blur3" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <!-- Lightning Gradient -->
+    <linearGradient id="lightningGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffff00" />
+      <stop offset="100%" stop-color="#00ffff" />
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="40" height="40" fill="none" />
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#220055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .name-text {
+      font-family: 'Arial', sans-serif;
+      font-size: 64px;
+      font-weight: 900;
+      fill: transparent;
+      stroke: url(#lightningGrad);
+      stroke-width: 2px;
+      filter: url(#neon);
+      animation: pulsate 2s infinite alternate;
+    }
+
+    .particle {
+      fill: #00ffff;
+      filter: url(#neon);
+      animation: floatUp 4s infinite linear;
+      opacity: 0;
+    }
+
+    .p1 { animation-delay: 0s; }
+    .p2 { animation-delay: 1.5s; animation-duration: 5s; fill: #a200ff; }
+    .p3 { animation-delay: 3s; animation-duration: 3s; fill: #ffff00; }
+    .p4 { animation-delay: 0.5s; animation-duration: 6s; }
+    .p5 { animation-delay: 2s; animation-duration: 4s; fill: #a200ff; }
+
+    @keyframes pulsate {
+      0% { filter: drop-shadow(0 0 5px #a200ff) drop-shadow(0 0 10px #a200ff); stroke: url(#lightningGrad); }
+      100% { filter: drop-shadow(0 0 15px #00ffff) drop-shadow(0 0 30px #00ffff); stroke: #fff;}
+    }
+
+    @keyframes floatUp {
+      0% { transform: translateY(250px) scale(0.5); opacity: 0; }
+      20% { opacity: 1; }
+      80% { opacity: 1; }
+      100% { transform: translateY(-50px) scale(1.2); opacity: 0; }
+    }
+
+    .role-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 24px;
+      font-weight: bold;
+      fill: #00ffff;
+      filter: drop-shadow(0 0 5px #00ffff);
+      opacity: 0;
+      animation: cycleRole 9s infinite;
+    }
+    
+    .role2 { animation-delay: 3s; }
+    .role3 { animation-delay: 6s; }
+
+    @keyframes cycleRole {
+      0%, 25% { opacity: 1; transform: translateY(0px); }
+      30%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- Particles -->
+  <circle cx="150" cy="200" r="3" class="particle p1" />
+  <circle cx="350" cy="220" r="2" class="particle p2" />
+  <circle cx="650" cy="230" r="4" class="particle p3" />
+  <circle cx="850" cy="190" r="2" class="particle p4" />
+  <circle cx="500" cy="240" r="3" class="particle p5" />
+  <circle cx="100" cy="50" r="2" class="particle p3" />
+  <circle cx="900" cy="80" r="3" class="particle p1" />
+  
+  <!-- Outer Capsule Border -->
+  <rect x="20" y="20" width="960" height="210" rx="30" fill="none" stroke="#a200ff" stroke-width="2" filter="url(#neon)"/>
+  
+  <!-- Corner Decals -->
+  <path d="M 15 50 L 15 40 Q 15 15 40 15 L 50 15" fill="none" stroke="#00ffff" stroke-width="3" filter="url(#neon)"/>
+  <path d="M 985 50 L 985 40 Q 985 15 960 15 L 950 15" fill="none" stroke="#00ffff" stroke-width="3" filter="url(#neon)"/>
+  <path d="M 15 200 L 15 210 Q 15 235 40 235 L 50 235" fill="none" stroke="#00ffff" stroke-width="3" filter="url(#neon)"/>
+  <path d="M 985 200 L 985 210 Q 985 235 960 235 L 950 235" fill="none" stroke="#00ffff" stroke-width="3" filter="url(#neon)"/>
+
+  <!-- Name Text -->
+  <text x="500" y="115" text-anchor="middle" class="name-text">AINAAN RAZA</text>
+
+  <!-- Subtitle Text -->
+  <text x="500" y="170" text-anchor="middle" class="role-text">&lt; AI Engineer /&gt;</text>
+  <text x="500" y="170" text-anchor="middle" class="role-text role2">&lt; Full Stack Developer /&gt;</text>
+  <text x="500" y="170" text-anchor="middle" class="role-text role3">&lt; Software Engineer /&gt;</text>
+  
+</svg>

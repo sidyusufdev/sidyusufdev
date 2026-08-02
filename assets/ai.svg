@@ -1,0 +1,56 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .node {
+      fill: #00ffff;
+      filter: url(#glow);
+      animation: pulse 2s infinite alternate;
+    }
+    .conn {
+      stroke: #a200ff;
+      stroke-width: 2;
+      animation: pulsePath 3s infinite alternate;
+    }
+    .n1 { animation-delay: 0s; }
+    .n2 { animation-delay: 0.5s; }
+    .n3 { animation-delay: 1s; }
+    .n4 { animation-delay: 1.5s; }
+    .n5 { animation-delay: 2s; }
+    
+    @keyframes pulse {
+      0% { r: 3; fill: #00ffff; }
+      100% { r: 6; fill: #ffff00; }
+    }
+    @keyframes pulsePath {
+      0% { stroke-opacity: 0.3; stroke: #a200ff; }
+      100% { stroke-opacity: 1; stroke: #00ffff; }
+    }
+  </style>
+
+  <!-- Connections -->
+  <line x1="50" y1="20" x2="30" y2="50" class="conn" />
+  <line x1="50" y1="20" x2="70" y2="50" class="conn" />
+  <line x1="30" y1="50" x2="50" y2="80" class="conn" />
+  <line x1="70" y1="50" x2="50" y2="80" class="conn" />
+  <line x1="30" y1="50" x2="70" y2="50" class="conn" />
+  <line x1="50" y1="50" x2="50" y2="20" class="conn" />
+  <line x1="50" y1="50" x2="30" y2="50" class="conn" />
+  <line x1="50" y1="50" x2="70" y2="50" class="conn" />
+  <line x1="50" y1="50" x2="50" y2="80" class="conn" />
+
+  <!-- Nodes -->
+  <circle cx="50" cy="20" r="5" class="node n1" />
+  <circle cx="30" cy="50" r="5" class="node n2" />
+  <circle cx="70" cy="50" r="5" class="node n3" />
+  <circle cx="50" cy="80" r="5" class="node n4" />
+  <circle cx="50" cy="50" r="5" class="node n5" />
+</svg>

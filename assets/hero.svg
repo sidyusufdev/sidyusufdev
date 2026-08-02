@@ -1,0 +1,136 @@
+<svg width="100%" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark Background Gradient -->
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05000a" />
+      <stop offset="100%" stop-color="#1a0033" />
+    </linearGradient>
+
+    <!-- Electric Lightning Glow -->
+    <filter id="lightningGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur1" />
+      <feGaussianBlur stdDeviation="10" result="blur2" />
+      <feGaussianBlur stdDeviation="20" result="blur3" />
+      <feMerge>
+        <feMergeNode in="blur3" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <!-- Aura Filter -->
+    <filter id="aura" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComponentTransfer in="blur" result="glow">
+        <feFuncA type="linear" slope="1.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <path id="lightningPath" d="M 0 0 L 10 15 L 0 25 L 15 40 L 5 55 L 25 70" fill="none" stroke="#ffff00" stroke-width="2" filter="url(#lightningGlow)"/>
+  </defs>
+
+  <style>
+    .swordsman {
+      animation: floatParallax 4s infinite alternate ease-in-out;
+    }
+    .sword {
+      transform-origin: bottom center;
+      animation: pulseGlow 2s infinite alternate;
+      stroke: #ffff00;
+      fill: #ffff00;
+      filter: url(#lightningGlow);
+    }
+    .aura {
+      fill: #a200ff;
+      opacity: 0.3;
+      filter: url(#aura);
+      animation: auraPulse 3s infinite alternate;
+    }
+    .lightning-streak {
+      stroke-dasharray: 100;
+      stroke-dashoffset: 100;
+      animation: strike 2s infinite;
+      opacity: 0;
+    }
+    .l1 { animation-delay: 0.2s; }
+    .l2 { animation-delay: 1.5s; }
+    .l3 { animation-delay: 2.7s; }
+
+    @keyframes floatParallax {
+      0% { transform: translateY(0px) rotate(0deg); }
+      100% { transform: translateY(-15px) rotate(1deg); }
+    }
+    @keyframes pulseGlow {
+      0% { filter: drop-shadow(0 0 10px #ffff00); }
+      100% { filter: drop-shadow(0 0 25px #00ffff); stroke: #00ffff; fill: #00ffff;}
+    }
+    @keyframes auraPulse {
+      0% { transform: scale(1); opacity: 0.2; }
+      100% { transform: scale(1.05); opacity: 0.5; }
+    }
+    @keyframes strike {
+      0% { stroke-dashoffset: 100; opacity: 1; }
+      50% { stroke-dashoffset: 0; opacity: 1; }
+      51% { opacity: 0; stroke-dashoffset: 0; }
+      100% { opacity: 0; }
+    }
+    
+    .floating-text {
+      font-family: 'Arial', sans-serif;
+      fill: #00ffff;
+      font-weight: bold;
+      font-size: 20px;
+      letter-spacing: 2px;
+      filter: drop-shadow(0 0 5px #00ffff);
+      animation: floatText 3s infinite alternate;
+    }
+    @keyframes floatText {
+      0% { transform: translateY(0px); opacity: 0.7;}
+      100% { transform: translateY(-10px); opacity: 1;}
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="url(#bgGrad2)" rx="20"/>
+
+  <!-- Background Aura -->
+  <circle cx="400" cy="200" r="150" class="aura" />
+
+  <!-- The Swordsman Group (Silhouette) -->
+  <g class="swordsman" transform="translate(350, 100)">
+    <!-- Body -->
+    <path d="M 40 80 Q 20 120 10 160 L 90 160 Q 80 120 60 80 Z" fill="#0a001a" stroke="#a200ff" stroke-width="2" />
+    
+    <!-- Head / Mask -->
+    <path d="M 35 40 Q 50 30 65 40 L 60 70 Q 50 80 40 70 Z" fill="#0a001a" stroke="#00ffff" stroke-width="2" />
+    <circle cx="50" cy="55" r="4" fill="#ffff00" filter="url(#lightningGlow)"/>
+
+    <!-- Cape -->
+    <path d="M 20 80 Q -20 120 -40 180 Q 0 170 30 140 Z" fill="#140033" opacity="0.8" />
+    
+    <!-- Sword -->
+    <path d="M 70 120 L 140 -20 L 150 -15 L 80 130 Z" class="sword" />
+    
+    <!-- Arm holding sword -->
+    <path d="M 60 80 Q 80 100 80 130" fill="none" stroke="#a200ff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Lightning Effects around Swordsman -->
+  <use href="#lightningPath" x="300" y="100" class="lightning-streak l1" />
+  <use href="#lightningPath" x="500" y="50" transform="scale(-1, 1) translate(-1000, 0)" class="lightning-streak l2" />
+  <use href="#lightningPath" x="400" y="250" transform="rotate(45 400 250)" class="lightning-streak l3" />
+  <use href="#lightningPath" x="350" y="200" transform="rotate(-30 350 200)" class="lightning-streak l1" />
+
+  <text x="400" y="350" text-anchor="middle" class="floating-text">"BUILDING THE FUTURE OF AI"</text>
+
+  <!-- Particles -->
+  <circle cx="200" cy="150" r="3" fill="#ffff00" opacity="0.6"><animate attributeName="cy" values="150; 50; 150" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="250" r="4" fill="#00ffff" opacity="0.8"><animate attributeName="cy" values="250; 150; 250" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="250" cy="300" r="2" fill="#a200ff" opacity="0.9"><animate attributeName="cy" values="300; 200; 300" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="650" cy="100" r="5" fill="#ffff00" opacity="0.5"><animate attributeName="cy" values="100; 0; 100" dur="6s" repeatCount="indefinite"/></circle>
+
+</svg>

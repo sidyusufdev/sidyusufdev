@@ -1,99 +1,163 @@
 <div align="center">
+  
+  <img src="assets/banner.svg" alt="Yusuf Siddique Banner" width="100%" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yusuf%20Siddique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Student+%7C+Aspiring+Full+Stack+Developer;Learning+React.js+%26+Node.js;Building+Full+Stack+Web+Applications;Open+to+Collaboration+%26+Open+Source" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufsid87842@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidyusufdev)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sidyusufdev&label=Profile%20Views&color=6D28D9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/sidyusufdev?label=Followers&style=for-the-badge&color=8B5CF6)
-![Stars](https://img.shields.io/github/stars/sidyusufdev?label=Stars&style=for-the-badge&color=A78BFA)
+  ### <img src="assets/ai.svg" width="30" /> Building Full Stack Web Applications, One Bug at a Time <img src="assets/ai.svg" width="30" />
+  
+  *Student | Full Stack Web Developer*
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Student+%7C+Aspiring+Full+Stack+Developer;Learning+React.js+%26+Node.js;Building+Full+Stack+Web+Applications;Open+to+Collaboration+%26+Open+Source)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🙋‍♂️ About Me
+## ⚡ Main Protocol: INITIALIZED 
+
+<div align="center">
+  <img src="assets/hero.svg" alt="Cyberpunk Dev Hero" width="100%" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 👾 About Me
+
+I'm a **Student & Full Stack Web Developer** learning to build real-world web applications with React and Node.js. I enjoy turning ideas into working products and picking up something new every day.
+
+🔹 **Core Focus:** React.js, Node.js, MongoDB, Full Stack Development.<br>
+🔹 **Design Philosophy:** Keep learning, keep shipping.<br>
+🔹 **Open Source:** Enthusiast & always open to collaborate.<br>
+🔹 **Email:** yusufsid87842@gmail.com
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus & Interests
+
+- 🌱 **React.js, Node.js & MongoDB**
+- 🚀 **Full Stack Web Applications**
+- 🔭 **Open Source Contribution Workflows**
+- 🤝 **Beginner-Friendly Project Ideas**
+- 🛠 **JavaScript, Python, Java, Git & GitHub**
+- ⚡ **Fun Fact:** Creating bugs since day one 😂
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="assets/lightning.svg" width="300" />
+</div>
+
+---
+
+## 🛠️ Technological Arsenal
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-0A001A?style=for-the-badge&logo=c&logoColor=00FFFF&labelColor=140033)
+![C#](https://img.shields.io/badge/C%23-0A001A?style=for-the-badge&logo=c-sharp&logoColor=00FFFF&labelColor=140033)
+![C++](https://img.shields.io/badge/C++-0A001A?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF&labelColor=140033)
+![Java](https://img.shields.io/badge/Java-0A001A?style=for-the-badge&logo=openjdk&logoColor=00FFFF&labelColor=140033)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A001A?style=for-the-badge&logo=javascript&logoColor=00FFFF&labelColor=140033)
+![Python](https://img.shields.io/badge/Python-0A001A?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=140033)
+![PHP](https://img.shields.io/badge/PHP-0A001A?style=for-the-badge&logo=php&logoColor=00FFFF&labelColor=140033)
+
+### 🎨 Frontend & Backend
+![React](https://img.shields.io/badge/React-0A001A?style=for-the-badge&logo=react&logoColor=00FFFF&labelColor=140033)
+![Next.js](https://img.shields.io/badge/Next.js-0A001A?style=for-the-badge&logo=next.js&logoColor=00FFFF&labelColor=140033)
+![Node.js](https://img.shields.io/badge/Node.js-0A001A?style=for-the-badge&logo=nodedotjs&logoColor=00FFFF&labelColor=140033)
+![Express](https://img.shields.io/badge/Express.js-0A001A?style=for-the-badge&logo=express&logoColor=00FFFF&labelColor=140033)
+![Flask](https://img.shields.io/badge/Flask-0A001A?style=for-the-badge&logo=flask&logoColor=00FFFF&labelColor=140033)
+![HTML5](https://img.shields.io/badge/HTML5-0A001A?style=for-the-badge&logo=html5&logoColor=00FFFF&labelColor=140033)
+![CSS3](https://img.shields.io/badge/CSS3-0A001A?style=for-the-badge&logo=css3&logoColor=00FFFF&labelColor=140033)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-0A001A?style=for-the-badge&logo=mongodb&logoColor=00FFFF&labelColor=140033)
+![MySQL](https://img.shields.io/badge/MySQL-0A001A?style=for-the-badge&logo=mysql&logoColor=00FFFF&labelColor=140033)
+![Supabase](https://img.shields.io/badge/Supabase-0A001A?style=for-the-badge&logo=supabase&logoColor=00FFFF&labelColor=140033)
+
+### 🧠 Data & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-0A001A?style=for-the-badge&logo=numpy&logoColor=00FFFF&labelColor=140033)
+![Pandas](https://img.shields.io/badge/Pandas-0A001A?style=for-the-badge&logo=pandas&logoColor=00FFFF&labelColor=140033)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0A001A?style=for-the-badge&logo=scikit-learn&logoColor=00FFFF&labelColor=140033)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A001A?style=for-the-badge&logo=pytorch&logoColor=00FFFF&labelColor=140033)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A001A?style=for-the-badge&logo=tensorflow&logoColor=00FFFF&labelColor=140033)
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0A001A?style=for-the-badge&logo=git&logoColor=00FFFF&labelColor=140033)
+![GitHub](https://img.shields.io/badge/GitHub-0A001A?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=140033)
+![Vercel](https://img.shields.io/badge/Vercel-0A001A?style=for-the-badge&logo=vercel&logoColor=00FFFF&labelColor=140033)
+![Postman](https://img.shields.io/badge/Postman-0A001A?style=for-the-badge&logo=postman&logoColor=00FFFF&labelColor=140033)
+
+---
+
+## 🎯 Current Focus
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><b>🌱 Learning</b></td>
+    <td width="75%">React.js · Node.js · MongoDB · Advanced JavaScript</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>🚀 Building</b></td>
+    <td width="75%">Full stack web applications</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>🔭 Exploring</b></td>
+    <td width="75%">Open source contribution workflows</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>🤝 Open To</b></td>
+    <td width="75%">Open source projects · Web dev collaboration · Beginner-friendly project ideas</td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="assets/lightning.svg" width="300" />
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/analytics_header.svg" width="100%" />
+</div>
 
 <div align="center">
 
-| | | |
-|:---:|:---|:---|
-| 🎓 | **Role** | Student \| Full Stack Web Developer |
-| 🚀 | **Currently Building** | Full Stack Web Applications using React and Node.js |
-| 🌱 | **Currently Learning** | React.js · Node.js · MongoDB · Advanced JavaScript |
-| 🤝 | **Looking to Collaborate On** | Open Source Projects · Web Dev Projects · Beginner-Friendly Ideas |
-| 💬 | **Ask Me About** | JavaScript · Python · Java · React · MongoDB · Git & GitHub |
-| 🎯 | **Mission** | Building useful, real-world web applications while learning something new every day |
-| ⚡ | **Fun Fact** | Creating bugs since day one 😂 |
+### Contribution Grid Matrix
+<!-- The Snake Action pushes to the dist/output branch. Give it a minute after running the workflow! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidyusufdev/sidyusufdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidyusufdev/sidyusufdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidyusufdev/sidyusufdev/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-</div>
+<br>
 
----
+### 3D Contribution Render
+<!-- Note: The 3D render is generated by the GitHub Actions workflow. Once the "3d.yml" action finishes running in your repository, this image will automatically appear! -->
+<img src="https://raw.githubusercontent.com/sidyusufdev/sidyusufdev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile (Please wait for GitHub Action to generate this)" width="100%">
 
-### 🧠 Tech Stack
+<br>
 
-**Languages**
+### Stats & Activity Log
 
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=sidyusufdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sidyusufdev&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-**Frontend & Backend**
-
-<p>
-<img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-**Databases**
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
-**Data & Machine Learning**
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-**Tools & Platforms**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidyusufdev&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 
 ### ⏱️ WakaTime Stats
 
@@ -112,63 +176,41 @@ CSS               3 mins                ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=sidyusufdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sidyusufdev&layout=compact&theme=radical&cache_seconds=0"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sidyusufdev&theme=radical" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidyusufdev&theme=react-dark" alt="Activity Graph"/>
+### Achievements Showcase
+<!-- The github-metrics.svg will be generated in your repo root once the metrics.yml GitHub action finishes! -->
+<img src="github-metrics.svg" alt="GitHub Metrics (Please wait for GitHub Action to generate this)" width="100%">
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sidyusufdev/sidyusufdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+  <img src="assets/connection_header.svg" width="100%" />
 </div>
 
-> This animation activates automatically after the workflow below is added to your profile repo — it won't render until then.
-
----
-
-### 🎯 Current Focus
-
 <div align="center">
 
-| | Focus Area | Details |
-|:---:|:---|:---|
-| 🌱 | **Learning** | React.js · Node.js · MongoDB · Advanced JavaScript |
-| 🚀 | **Building** | Full stack web applications |
-| 🔭 | **Exploring** | Open source contribution workflows |
-| 🤝 | **Open To** | Open source projects · Web dev collaboration · Beginner-friendly project ideas |
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-0A001A?style=for-the-badge&logo=Web&logoColor=00FFFF&labelColor=140033" alt="Portfolio" />
+</a>
+<a href="https://github.com/sidyusufdev">
+  <img src="https://img.shields.io/badge/GitHub-0A001A?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=140033" alt="GitHub" />
+</a>
+<a href="mailto:yusufsid87842@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A001A?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=140033" alt="Email" />
+</a>
 
+<br><br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
-
-### 🌐 Connect
-
-<p align="center">
-<a href="mailto:yusufsid87842@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sidyusufdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
+<br>
 
 <div align="center">
-
-*"Creating bugs since day one — and learning something new every day."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+  <h3>⚡ SYSTEM VISITS ⚡</h3>
+  <img src="https://komarev.com/ghpvc/?username=sidyusufdev&color=0a001a&labelColor=00FFFF&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
+</div>
 
 </div>
