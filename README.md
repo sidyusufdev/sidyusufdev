@@ -66,7 +66,9 @@ I'm a **Student & Full Stack Web Developer** building product-ready web experien
 
 ## 🛠️ Technological Arsenal
 
-### 💻 Languages
+### 💻 Primary Languages
+A few of the languages I use most often when building apps, tools, and learning new concepts.
+
 ![C](https://img.shields.io/badge/C-0A001A?style=for-the-badge&logo=c&logoColor=00FFFF&labelColor=140033)
 ![C#](https://img.shields.io/badge/C%23-0A001A?style=for-the-badge&logo=c-sharp&logoColor=00FFFF&labelColor=140033)
 ![C++](https://img.shields.io/badge/C++-0A001A?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF&labelColor=140033)
@@ -197,8 +199,10 @@ HTML              0 secs                ▒░░░░░░░░░░░░�
 
 <div align="center">
 
+**Connect with me on GitHub or by email.**
+
 <a href="https://github.com/sidyusufdev">
-  <img src="https://img.shields.io/badge/GitHub-0A001A?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=140033" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0A001A?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=140033" alt="GitHub Profile" />
 </a>
 <a href="mailto:yusufsid87842@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A001A?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=140033" alt="Email" />
