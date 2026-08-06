@@ -173,21 +173,19 @@ I'm a **Student & Full Stack Web Developer** building product-ready web experien
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2026 - To: 01 August 2026
+From: 29 July 2026 - To: 05 August 2026
 
-Total Time: 2 hrs 1 min
+Total Time: 49 mins
 
-TypeScript        1 hr 26 mins          █████████████████▓░░░░░░░   71.22 %
-Markdown          25 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
-Java Properties   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-CSS               3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Markdown          30 mins               ███████████████▓░░░░░░░░░   62.56 %
+Java              6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Java Properties   6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+XML               3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+HTML              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
 
-### Achievements Showcase
-<!-- The github-metrics.svg will be generated in your repo root once the metrics.yml GitHub action finishes! -->
-<img src="github-metrics.svg" alt="GitHub Metrics (Please wait for GitHub Action to generate this)" width="100%">
 
 </div>
 
