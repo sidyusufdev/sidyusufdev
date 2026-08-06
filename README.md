@@ -26,11 +26,11 @@
 
 ### 👾 About Me
 
-I'm a **Student & Full Stack Web Developer** learning to build real-world web applications with React and Node.js. I enjoy turning ideas into working products and picking up something new every day.
+I'm a **Student & Full Stack Web Developer** building product-ready web experiences with React, Node.js, and MongoDB. I enjoy turning ideas into working apps and learning every day through real projects.
 
-🔹 **Core Focus:** React.js, Node.js, MongoDB, Full Stack Development.<br>
-🔹 **Design Philosophy:** Keep learning, keep shipping.<br>
-🔹 **Open Source:** Enthusiast & always open to collaborate.<br>
+🔹 **Core Focus:** Full stack web apps, REST APIs, developer tools, and open-source learning.<br>
+🔹 **Design Philosophy:** Build fast, learn faster, and ship clean code.<br>
+🔹 **Open Source:** Always keen to collaborate and contribute.<br>
 🔹 **Email:** yusufsid87842@gmail.com
 
 </td>
@@ -38,11 +38,11 @@ I'm a **Student & Full Stack Web Developer** learning to build real-world web ap
 
 ### 🎯 Current Focus & Interests
 
-- 🌱 **React.js, Node.js & MongoDB**
-- 🚀 **Full Stack Web Applications**
-- 🔭 **Open Source Contribution Workflows**
-- 🤝 **Beginner-Friendly Project Ideas**
-- 🛠 **JavaScript, Python, Java, Git & GitHub**
+- 🌱 **Learning:** React.js, Node.js, MongoDB, TypeScript
+- 🚀 **Building:** Full stack web applications and modern dashboards
+- 🔭 **Exploring:** Open source workflows and developer tooling
+- 🤝 **Open To:** Collaboration, beginner-friendly projects, mentorship
+- 🛠 **Growing With:** JavaScript, Python, Java, Git & GitHub
 - ⚡ **Fun Fact:** Creating bugs since day one 😂
 
 </td>
@@ -52,6 +52,15 @@ I'm a **Student & Full Stack Web Developer** learning to build real-world web ap
 <div align="center">
   <img src="assets/lightning.svg" width="300" />
 </div>
+
+---
+
+## 🚧 What I Build
+
+- **Responsive web apps** with React / Next.js for modern user experiences.
+- **APIs and backend services** using Node.js, Express, and MongoDB.
+- **Developer-focused tools** and README-driven portfolio enhancements.
+- **Learning projects** that turn concepts into real code.
 
 ---
 
@@ -190,9 +199,6 @@ CSS               3 mins                ▓░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-0A001A?style=for-the-badge&logo=Web&logoColor=00FFFF&labelColor=140033" alt="Portfolio" />
-</a>
 <a href="https://github.com/sidyusufdev">
   <img src="https://img.shields.io/badge/GitHub-0A001A?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=140033" alt="GitHub" />
 </a>
