@@ -164,15 +164,15 @@ I'm a **Student & Full Stack Web Developer** learning to build real-world web ap
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 29 July 2026 - To: 05 August 2026
 
-Total Time: 1 hr 33 mins
+Total Time: 49 mins
 
-Markdown          38 mins               ██████████▒░░░░░░░░░░░░░░   41.72 %
-TypeScript        32 mins               ████████▓░░░░░░░░░░░░░░░░   34.89 %
-Java              6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Java Properties   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-CSS               4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Markdown          30 mins               ███████████████▓░░░░░░░░░   62.56 %
+Java              6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Java Properties   6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+XML               3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+HTML              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
