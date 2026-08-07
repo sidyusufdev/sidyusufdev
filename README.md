@@ -83,21 +83,6 @@ Here are some of the certifications and training achievements I’ve completed:
   *IBM SkillsNetwork (Cognitive Class)* | November 2024  
   [Verify Certificate](https://courses.cognitiveclass.ai/certificates/cce19df3f2d54b96a7cd81a6d02e1d35)
 
-- 🐍 **Python Workshop — Certificate of Participation**  
-  *Softflew Training Institute* | March 2023
-
-- 💻 **CCC (Course on Computer Concepts) — Vocational Training**  
-  *Integral University Polytechnic* | Nov 2023 – May 2024 | Grade: **A+**
-
-- 💻 **COPA (Computer Operator & Programming Assistant) — Vocational Training**  
-  *Integral University Polytechnic* | Nov 2022 – May 2023 | Grade: **A+**
-
-- 🏆 **Certificate of Participation — Dept. Event**  
-  *Integral University Polytechnic* | May 2023
-
-- ✍️ **Certificate of Appreciation — Essay Writing Competition**  
-  *"Importance of Communal Harmony in the Postmodern Era"*, Integral University | November 2021
-
 ## �🚀 Featured Projects
 
 Here are a few projects that reflect my current focus and growing skill set:
