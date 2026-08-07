@@ -64,6 +64,16 @@ I'm a **Student & Full Stack Web Developer** building product-ready web experien
 
 ---
 
+## 🚀 Featured Projects
+
+Here are a few projects that reflect my current focus and growing skill set:
+
+- [Cyberpunk GitHub Profile](https://github.com/sidyusufdev/sidyusufdev) — A personalized GitHub profile experience with custom visuals, animated stats, and a modern developer-brand aesthetic.
+- [Full-Stack Web App](#) — A responsive web application built with React, Node.js, and MongoDB, focused on clean UI and smooth user experience.
+- [API / Developer Tool](#) — A backend-focused project featuring REST APIs, authentication flow, and practical developer tooling.
+
+> Replace the placeholder links with your real repositories and live demos as you add more completed projects.
+
 ## 🧠 Skill Highlights
 
 Here’s a quick snapshot of the areas I’m building and improving right now:
