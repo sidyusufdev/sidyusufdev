@@ -2,7 +2,7 @@
   
   <img src="assets/banner.svg" alt="Md Yusuf Siddique Banner" width="100%" />
 
-  ### <img src="assets/ai.svg" width="30" /> Building Full Stack Web Applications, One Bug at a Time <img src="assets/ai.svg" width="30" />
+  ### <img src="assets/ai.svg" width="30" /> From bug to feature — I ship solutions. <img src="assets/ai.svg" width="30" />
   
   *Student | Full Stack Web Developer*
   
