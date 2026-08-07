@@ -64,6 +64,16 @@ I'm a **Student & Full Stack Web Developer** building product-ready web experien
 
 ---
 
+## 🧠 Skill Highlights
+
+Here’s a quick snapshot of the areas I’m building and improving right now:
+
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** MongoDB, MySQL, Supabase
+- **Tools & Workflow:** Git, GitHub, Postman, Vercel, VS Code
+- **Learning Path:** TypeScript, Python, Java, Docker
+
 ## 🛠️ Technological Arsenal
 
 ### 💻 Primary Languages
