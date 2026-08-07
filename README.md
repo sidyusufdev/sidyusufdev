@@ -10,18 +10,7 @@
 
 </div>
 
-<div align="center">
-  <!-- Common status badges rendered as HTML so they show inside the HTML block -->
-  <a href="https://github.com/sidyusufdev/sidyusufdev/actions"><img alt="Build Status" src="https://img.shields.io/github/actions/workflow/status/sidyusufdev/sidyusufdev/ci.yml?branch=main&label=build&style=for-the-badge" /></a>
-  <a href="https://github.com/sidyusufdev/sidyusufdev/releases"><img alt="Release" src="https://img.shields.io/github/v/release/sidyusufdev/sidyusufdev?style=for-the-badge" /></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/sidyusufdev/sidyusufdev?style=for-the-badge" /></a>
-  <a href="https://github.com/sidyusufdev/sidyusufdev/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/sidyusufdev/sidyusufdev?style=social" /></a>
-  <a href="https://github.com/sidyusufdev/sidyusufdev/network"><img alt="Forks" src="https://img.shields.io/github/forks/sidyusufdev/sidyusufdev?style=social" /></a>
-  <br/>
-  <a href="https://github.com/sidyusufdev/sidyusufdev/issues"><img alt="Issues" src="https://img.shields.io/github/issues/sidyusufdev/sidyusufdev?style=for-the-badge" /></a>
-  <a href="https://github.com/sidyusufdev/sidyusufdev/pulls"><img alt="PRs" src="https://img.shields.io/github/issues-pr/sidyusufdev/sidyusufdev?style=for-the-badge" /></a>
-  <a href="https://codecov.io/gh/sidyusufdev/sidyusufdev"><img alt="Codecov" src="https://img.shields.io/codecov/c/gh/sidyusufdev/sidyusufdev?style=for-the-badge" /></a>
-  <a href="https://github.com/sidyusufdev/sidyusufdev/pulse"><img alt="Dependabot" src="https://img.shields.io/librariesio/dependabot/github/sidyusufdev/sidyusufdev?style=for-the-badge" /></a>
+
 </div>
 
 ---
