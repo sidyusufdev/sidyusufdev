@@ -209,7 +209,9 @@ Git               0 secs                ▒░░░░░░░░░░░░�
 
 <div align="center">
 
-**Connect with me on GitHub or by email.**
+<h3>🤝 Open to Collaboration</h3>
+<p><b>I’m always excited to connect with fellow developers, learners, and teams building meaningful web projects.</b></p>
+<p>Open to internships, freelance opportunities, open-source contribution, and project collaborations.</p>
 
 <a href="https://github.com/sidyusufdev">
   <img src="https://img.shields.io/badge/GitHub-0A001A?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=140033" alt="GitHub Profile" />
