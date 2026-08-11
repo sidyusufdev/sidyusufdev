@@ -217,15 +217,15 @@ A few of the languages I use most often when building apps, tools, and learning 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Total Time: 2 hrs 44 mins
+Total Time: 2 hrs 49 mins
 
-Markdown      1 hr 26 mins          ████████████▓░░░░░░░░░░░░   51.00 %
-HTML          28 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-YAML          27 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-CSS           8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Java          5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Markdown     1 hr 11 mins          ████████▓░░░░░░░░░░░░░░░░   34.81 %
+Other        35 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+HTML         27 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+YAML         27 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+TypeScript   20 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
 ```
 
 <!--END_SECTION:waka-->
