@@ -199,15 +199,15 @@ A few of the languages I use most often when building apps, tools, and learning 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2026 - To: 14 August 2026
+From: 08 August 2026 - To: 15 August 2026
 
-Total Time: 1 hr 37 mins
+Total Time: 1 hr 19 mins
 
-Other        38 mins               ███████░░░░░░░░░░░░░░░░░░   28.21 %
-HTML         27 mins               █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-TypeScript   23 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Markdown     20 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-CSS          8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Other        38 mins               ████████░░░░░░░░░░░░░░░░░   32.48 %
+HTML         27 mins               ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+TypeScript   23 mins               █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+CSS          8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+JavaScript   7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
 ```
 
 <!--END_SECTION:waka-->
