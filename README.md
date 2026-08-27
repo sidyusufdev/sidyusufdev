@@ -192,7 +192,13 @@ A few of the languages I use most often when building apps, tools, and learning 
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidyusufdev&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidyusufdev&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p> 
 
 ### ⏱️ WakaTime Stats
 
