@@ -205,12 +205,12 @@ A few of the languages I use most often when building apps, tools, and learning 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2026 - To: 05 September 2026
+From: 30 August 2026 - To: 06 September 2026
 
 Total Time: 1 min
 
-Other        7 mins                ████████████████████░░░░░   79.50 %
-TypeScript   1 min                 █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+Other        6 mins                ███████████████████░░░░░░   76.18 %
+TypeScript   1 min                 ██████░░░░░░░░░░░░░░░░░░░   23.82 %
 Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
