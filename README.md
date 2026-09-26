@@ -205,13 +205,13 @@ A few of the languages I use most often when building apps, tools, and learning 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Total Time: 6 hrs 43 mins
+Total Time: 6 hrs 35 mins
 
-Java    6 hrs 18 mins         ███████████████████████▒░   93.31 %
-JSON    24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Other   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Java    6 hrs 11 mins         ███████████████████████▒░   93.18 %
+JSON    24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Other   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
