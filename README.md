@@ -205,11 +205,11 @@ A few of the languages I use most often when building apps, tools, and learning 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2026 - To: 18 October 2026
+From: 12 October 2026 - To: 19 October 2026
 
-Total Time: 1 hr 44 mins
+Total Time: 1 hr 14 mins
 
-Java   1 hr 44 mins          █████████████████████████   100.00 %
+Java   1 hr 14 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
