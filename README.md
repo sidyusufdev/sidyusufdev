@@ -93,13 +93,9 @@ Here’s a quick snapshot of the areas I’m building and improving right now:
 ### 💻 Primary Languages
 A few of the languages I use most often when building apps, tools, and learning new concepts.
 
-![C](https://img.shields.io/badge/C-0A001A?style=for-the-badge&logo=c&logoColor=00FFFF&labelColor=140033)
-![C#](https://img.shields.io/badge/C%23-0A001A?style=for-the-badge&logo=c-sharp&logoColor=00FFFF&labelColor=140033)
-![C++](https://img.shields.io/badge/C++-0A001A?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF&labelColor=140033)
 ![Java](https://img.shields.io/badge/Java-0A001A?style=for-the-badge&logo=openjdk&logoColor=00FFFF&labelColor=140033)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A001A?style=for-the-badge&logo=javascript&logoColor=00FFFF&labelColor=140033)
 ![Python](https://img.shields.io/badge/Python-0A001A?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=140033)
-![PHP](https://img.shields.io/badge/PHP-0A001A?style=for-the-badge&logo=php&logoColor=00FFFF&labelColor=140033)
 
 ### 🎨 Frontend & Backend
 ![React](https://img.shields.io/badge/React-0A001A?style=for-the-badge&logo=react&logoColor=00FFFF&labelColor=140033)
